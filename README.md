@@ -11,6 +11,12 @@
 ## 🛠️ Tools and Programming Languages:
 💻 Python, Java, SwiftUI, HTML, JavaScript, CSS
 
+-> partipated in American Computer Science League (ACSL) hackathon in Python
+
+-> enrolled in AP Computer Science A and created a Sudoku puzzle generator in Java
+
+-> personal website creation using HTML, JavaScript, CSS (beginner proficiency)
+
 
 <!--
 **aqyang28/aqyang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
