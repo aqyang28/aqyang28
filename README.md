@@ -9,7 +9,7 @@
 📱 I am also learning Apple app development as a member of _App Team Carolina's_ iOS bootcamp.
 
 ## 🛠️ Tools and Programming Languages:
-💻 Python, Java, SwiftUI, HTML, JavaScript, CSS
+💻 Python, Java, SwiftUI, Git, Docker, HTML, JavaScript, CSS,
 
 -> partipated in American Computer Science League (ACSL) hackathon in Python
 
