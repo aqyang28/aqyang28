@@ -6,7 +6,7 @@
 ## 📖 Classes:
 📝 I am currently enrolled in _COMP 110_ (Introduction to Programming and Data Science) and _COMP 290_ (Essential Tools for Computer Science). In COMP 110, I have learned foundational programming concepts such as data types, boolean logic, writing functions, control flow, and recursion. In COMP 290, I have learned the principles of behind the command line interface, Docker, and Git. 
 
-📱 I am also learning Apple app development as a member of _App Team Carolina's iOS bootcamp_.
+📱 I am also learning Apple app development as a member of _App Team Carolina's_ iOS bootcamp.
 
 ## 🛠️ Tools and Programming Languages:
 💻 Python, Java, SwiftUI, HTML, JavaScript, CSS
