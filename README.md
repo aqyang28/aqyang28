@@ -9,7 +9,14 @@
 📱 I am also learning Apple app development as a member of _App Team Carolina's_ iOS bootcamp.
 
 ## 🛠️ Tools and Programming Languages:
-💻 Python, Java, SwiftUI, Git, Docker, HTML, JavaScript, CSS,
+💻 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift&logoColor=03c3ff)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
 
 -> partipated in American Computer Science League (ACSL) hackathon in Python
 
