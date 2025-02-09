@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 About Me: 
-🏫 I am a freshman at the _University of North Carolina at Chapel Hill_ planning to double major in computer science and business. Computer science and business have many overlapping areas, and I am excited to explore the connections between the two fields more. I am most interested in iOS development and hope to pair it with my business knowledge to create something new! Whether it be building a mobile game or a constructing the backend code for a company's website, I am fascinated by the possibilities that coding offers. 
+🏫 I am a first-year student at the _University of North Carolina at Chapel Hill_ planning to double major in computer science and business. Computer science and business have many overlapping areas, and I am excited to explore the connections between the two fields more. I am fascinated by the possibilities of coding because it is such a powerful tool. As I venture through college, I hope to realize the capabilities of code to work on meaningful projects that will make a difference in peoples' lives. 
 
 📸 Outside of my studies, I love taking pictures, practicing piano, and playing sports with friends. I am a photographer for The Daily Tar Heel at UNC, and I love that it has challenged me to capture more moments that matter.
 
