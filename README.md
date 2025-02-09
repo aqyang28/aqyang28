@@ -6,7 +6,7 @@
 ## 📖 Classes:
 📝 I am currently enrolled in _COMP 210_ (Data Structures and Analysis). In COMP 210, I am learning how to optimize the data used in computer programs to maximize efficiency. Previous courses I have taken include _COMP 110_ (Introduction to Programming and Data Science) and _COMP 290_ (Essential Tools for Computer Science). In COMP 110, I learned foundational programming concepts such as data types, boolean logic, writing functions, control flow, and recursion. In COMP 290, I learned the principles of behind the command line interface, Docker, and Git. 
 
-📱 I am also learning Apple app development as a member of _App Team Carolina's_ iOS bootcamp.
+📱 I am also learning iOS app development as a member of _App Team Carolina's_ iOS Apprenticeship.
 
 ## 🛠️ Tools and Programming Languages:
 💻 
@@ -18,9 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
 
--> partipated in American Computer Science League (ACSL) hackathon in Python
-
--> enrolled in AP Computer Science A and created a Sudoku puzzle generator in Java
+-> created an iOS app titled _Booking101_ catered towards photographers
 
 -> personal website creation using HTML, JavaScript, CSS (beginner proficiency)
 
