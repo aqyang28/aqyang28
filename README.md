@@ -4,9 +4,9 @@
 📸 Outside of my studies, I love taking pictures, practicing piano, and playing sports with friends. I am currently working with my brother to create a personal photography website to showcase some of my favorite shots and make it easier to book photo sessions with me. 
 
 ## 📖 Classes:
-📝 I am currently enrolled in _COMP 210_ (Data Structures and Analysis). In COMP 210, I am learning how to optimize the data used in computer programs to maximize efficiency. Previous courses I have taken include _COMP 110_ (Introduction to Programming and Data Science) and _COMP 290_ (Essential Tools for Computer Science). In COMP 110, I learned foundational programming concepts such as data types, boolean logic, writing functions, control flow, and recursion. In COMP 290, I learned the principles of behind the command line interface, Docker, and Git. 
+📝 I am currently enrolled in __COMP 210__ (Data Structures and Analysis). In COMP 210, I am learning how to optimize the data used in computer programs to maximize efficiency. Previous courses I have taken include __COMP 110__ (Introduction to Programming and Data Science) and __COMP 290__ (Essential Tools for Computer Science). In COMP 110, I learned foundational programming concepts such as data types, boolean logic, writing functions, control flow, and recursion. In COMP 290, I learned the principles of behind the command line interface, Docker, and Git. 
 
-📱 I am also learning iOS app development as a member of _App Team Carolina's_ iOS Apprenticeship.
+📱 I am also learning iOS app development as a member of App Team Carolina's iOS Apprenticeship.
 
 ## 🛠️ Tools and Programming Languages:
 💻 
@@ -20,7 +20,7 @@
 
 -> created an iOS app titled _Booking101_ catered towards photographers
 
--> personal website creation using HTML, JavaScript, CSS (beginner proficiency)
+-> developing a personal website to display my photography portfolio using HTML, JavaScript, CSS
 
 
 <!--
