@@ -12,6 +12,7 @@
 💻 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift&logoColor=03c3ff)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
